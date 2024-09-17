@@ -15,5 +15,8 @@ fn main() {
 
     // f32 and f64 -- "single-precision" & "double-precision"
 
+    let floater = 10.9 //implicitly this is assigned f64 in rust
+    let floater: f32 = 10.9 //we can explicilty assign it either f32 or f64 though
+
 
 }
