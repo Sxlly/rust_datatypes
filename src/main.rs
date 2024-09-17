@@ -20,5 +20,8 @@ fn main() {
 
     //boolean
 
+    let t_or_f = true; //implicity assigned "bool" type 
+    let t_or_f: bool = false; //we can explicity assign t_or_f boolean type though
+
 
 }
