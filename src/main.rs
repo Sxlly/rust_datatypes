@@ -11,6 +11,9 @@ fn main() {
 
     let x: u32 = 400; //unsigned integer datatype-- this cannot have a sign attached to its value like "-30430" for example
 
+    //floating-point
+
+    // f32 and f64 -- "single-precision" & "double-precision"
 
 
 }
