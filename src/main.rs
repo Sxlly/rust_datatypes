@@ -24,4 +24,8 @@ fn main() {
     let t_or_f: bool = false; //we can explicity assign t_or_f boolean type though
 
 
+
+
 }
+
+
