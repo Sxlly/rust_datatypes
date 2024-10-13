@@ -1,3 +1,11 @@
+// Shae Sullivan
+// 20643731
+// Programming Languages - Assignment
+// 19/09/24
+
+
+
+
 fn main() {
     
     //primitive datatypes: scalar and compound
